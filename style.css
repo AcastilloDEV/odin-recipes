@@ -1,0 +1,38 @@
+/* Style sheet */
+
+.main-title {
+
+font-size: 70px;
+color:blue;
+font-weight: 700;
+text-align: center;
+background-color: rgba(183, 202, 146, 0.863);
+
+
+}
+
+.enlace-receta {
+
+font-size: 36px;
+color: gray;
+font-style: italic;
+text-align: center;
+
+
+}
+
+body {
+
+    background-color: rgb(233, 229, 171);
+}
+
+div {
+
+    text-align: center;
+    
+}
+
+img {
+
+    width: 800px;
+}
